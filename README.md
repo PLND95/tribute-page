@@ -1,2 +1,2 @@
-<!-- Pratice -->
-<!-- Base on freecodecamp -->
+Practice
+Base on freecodecamp
